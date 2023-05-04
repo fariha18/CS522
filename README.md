@@ -1,5 +1,5 @@
-# Built android apps using Android Studio 
-As a current undergraduate enrolled in a graduate-level course at Stevens Institute of Technology, 
+# Developed android apps using Android Studio 
+As an undergraduate enrolled in a graduate-level course at Stevens Institute of Technology, 
 I have gained expertise building andorid apps using Android Studios (Java) and have learned various implementation techniques. Throughout the course, 
 I have studied how to develop and operate applications on mobile computing platforms, manage data and power using algorithms and strategies, 
 and understand wireless communication protocols such as cell phone and LAN protocols, and network protocols for mobile applications. 
